@@ -6,14 +6,15 @@ A machine learning-based tool that predicts the next word in a sentence, similar
 
 This project uses a trained language model to suggest the next likely word based on a given input phrase. It can be used in smart typing apps, chatbots, or text completion tools.
 
-![Screenshot 2025-07-09 200540](https://github.com/user-attachments/assets/20656982-81e2-49a5-ab85-41e28dc403fe)
-![Screenshot 2025-07-09 195136](https://github.com/user-attachments/assets/f3897036-2061-4961-a8ea-523bc1099ed4)
-![Screenshot 2025-07-09 195209](https://github.com/user-attachments/assets/d8474b9d-69cc-42a7-ab0e-a62c75857dec)
-![Screenshot 2025-07-09 195229](https://github.com/user-attachments/assets/a0012b03-af06-4663-b07c-4d6ec7f7c034)
-![Screenshot 2025-07-09 195321](https://github.com/user-attachments/assets/3cc6db4c-8678-4409-a0a1-78b429dce569)
-![Screenshot 2025-07-09 195342](https://github.com/user-attachments/assets/cc44bdf8-c93d-46ae-843d-a20a614e3266)
-![Screenshot 2025-07-09 195406](https://github.com/user-attachments/assets/580a4270-4fa4-4866-a96e-c3cd10146ab0)
-![Screenshot 2025-07-09 195427](https://github.com/user-attachments/assets/f9f4221f-e60e-401e-b9e5-35fea396c4e2)
-![Screenshot 2025-07-09 195946](https://github.com/user-attachments/assets/a649d0c1-e085-47a7-b952-98aea9753b97)
-![Screenshot 2025-07-09 200158](https://github.com/user-attachments/assets/b30e7f81-34c4-4b94-adfb-d99d4d88617e)
+
+![Screenshot 2025-07-09 200540](https://github.com/user-attachments/assets/13f7381b-9f08-467d-8078-82ac48611403)
+![Screenshot 2025-07-09 195136](https://github.com/user-attachments/assets/5b4b34a0-1db0-499b-bb07-772d7cb347a4)
+![Screenshot 2025-07-09 195229](https://github.com/user-attachments/assets/37838384-6837-4be6-b8ee-a0317e575bef)
+![Screenshot 2025-07-09 195321](https://github.com/user-attachments/assets/a5d44e7a-d309-40c8-a480-a5308cfca0fd)
+![Screenshot 2025-07-09 195342](https://github.com/user-attachments/assets/cdb5083e-79c4-42a0-bea6-150a646f2cd4)
+![Screenshot 2025-07-09 195406](https://github.com/user-attachments/assets/d09b3e9b-82f4-4a5e-839e-c66de1d168c0)
+![Screenshot 2025-07-09 195427](https://github.com/user-attachments/assets/10b979bc-98cc-4b55-82ea-140926b57cd3)
+![Screenshot 2025-07-09 195450](https://github.com/user-attachments/assets/5a60f107-b329-4a4a-a3f0-6f6928de6eb6)
+![Screenshot 2025-07-09 195946](https://github.com/user-attachments/assets/73ed6e3b-753a-4adc-82b4-caaa6dea047a)
+![Screenshot 2025-07-09 200158](https://github.com/user-attachments/assets/533db890-2314-47ec-bde1-2233ec6ff939)
 
