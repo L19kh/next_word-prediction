@@ -13,7 +13,6 @@ This project uses a trained language model to suggest the next likely word based
 ![Screenshot 2025-07-09 195321](https://github.com/user-attachments/assets/a5d44e7a-d309-40c8-a480-a5308cfca0fd)
 ![Screenshot 2025-07-09 195342](https://github.com/user-attachments/assets/cdb5083e-79c4-42a0-bea6-150a646f2cd4)
 ![Screenshot 2025-07-09 195406](https://github.com/user-attachments/assets/d09b3e9b-82f4-4a5e-839e-c66de1d168c0)
-![Screenshot 2025-07-09 195427](https://github.com/user-attachments/assets/10b979bc-98cc-4b55-82ea-140926b57cd3)
 ![Screenshot 2025-07-09 195450](https://github.com/user-attachments/assets/5a60f107-b329-4a4a-a3f0-6f6928de6eb6)
 ![Screenshot 2025-07-09 195946](https://github.com/user-attachments/assets/73ed6e3b-753a-4adc-82b4-caaa6dea047a)
 ![Screenshot 2025-07-09 200158](https://github.com/user-attachments/assets/533db890-2314-47ec-bde1-2233ec6ff939)
